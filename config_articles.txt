@@ -1,8 +1,9 @@
 
-url_lien = https://walensky-shop.fr/collections/tableau-pour-cabinet-davocat
-ancre_lien = tableaux pour Cabinet d'avocat 
-tags = Cabinet avocat 
-collection_id = 617878520142
+url_lien = https://walensky-shop.fr/collections/tableau-pour-cabinet-medical
+ancre_lien = tableaux pour Cabinet médical
+tags = Cabinet médical 
+collection_id = 615591739726
 
 
-BLOG_ID=115689193806
+BLOG_ID=115689095502
+
